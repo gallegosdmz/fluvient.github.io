@@ -1,16 +1,16 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Sobre Nosotros",
+  "text": "¡Hola! Somos Fluvient, una empresa en desarrollo comprometida con la generación de ideas para construir un mundo mejor. Nuestra misión es contribuir al cambio a través de soluciones innovadoras y sostenibles, enfocadas en el cuidado del agua y del medio ambiente.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "title": "¿Cómo surgimos?",
+      "content": "Fluvient nació en un salón de clases, fruto de la creatividad y el trabajo en equipo de un grupo de estudiantes con grandes sueños. Lo que comenzó como un proyecto académico ha ido tomando forma, gracias a nuestra pasión y ambición.",
+      "icon": "cards.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "title": "Nuestro Presente",
+      "content": "Hoy, nuestro equipo está conformado por tres estudiantes talentosos, llenos de entusiasmo y con la firme convicción de progresar. Contamos también con el apoyo invaluable de nuestro asesor y amigo, quien nos ha guiado en este emocionante viaje.",
+      "icon": "cards.svg"
     }
   ]
 }

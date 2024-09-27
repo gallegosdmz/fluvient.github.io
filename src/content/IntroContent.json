@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Reutiliza el agua de forma inteligente",
+  "text": "Nuestro innovador sistema de filtrado te permite aprovechar al máximo el agua utilizada en tu hogar, contribuyendo al cuidado del medio ambiente y reduciendo el desperdicio. Fácil de instalar, eficiente y sustentable..",
   "button": [
     {
-      "title": "Explore"
+      "title": "Explorar"
     },
     {
-      "title": "Learn more",
+      "title": "Leer más",
       "color": "#fff"
     }
   ]

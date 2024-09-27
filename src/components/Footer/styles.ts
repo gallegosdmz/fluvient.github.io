@@ -62,9 +62,9 @@ export const Large = styled(Link)`
   max-width: max-content;
 
   &:hover {
-    color: rgb(255, 130, 92);
+    color: #4484bb;
     text-underline-position: under;
-    text-decoration: rgb(255, 130, 92) wavy underline;
+    text-decoration: #4484bb wavy underline;
   }
 `;
 
